@@ -1,21 +1,7 @@
-hello hi git 123123123123123
-hello hi git 123123123123123
-hello hi git 123123123123123
-hello hi git 123123123123123
-hello hi git 123123123123123
-hello hi git 123123123123123
-hello hi git 123123123123123
-hello hi git 123123123123123
-hello hi git 123123123123123
-hello hi git 123123123123123
-hello hi git 123123123123123
-hello hi git 123123123123123
-hello hi git 123123123123123
-hello hi git 123123123123123
-hello hi git 123123123123123
-hello hi git 123123123123123
-hello hi git 123123123123123
-hello hi git 123123123123123
-hello hi git 123123123123123
-hello hi git 123123123123123
-update by george
+public class Car {
+	private Integer id;
+	private String username;
+	private String password;
+
+
+}

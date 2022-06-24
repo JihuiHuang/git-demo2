@@ -8,6 +8,10 @@ public class Car {
 		this.username = username;
 
 	}
+	
+	public void getter () {
+		return this.username;
+	}
 
 
 

@@ -2,6 +2,7 @@ public class Car {
 	private Integer id;
 	private String username;
 	private String password;
+	private Integer onLine;
 
 
 }
